@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="title_activity_maps">HomeWork2</string>
+    <string name="last_known_loc_msg">asd</string>
+    <string name="CM">CLEAR \n MEMORY</string>
+    <string name="no_accelerometer">You dont have Accelerometer</string>
+</resources>
