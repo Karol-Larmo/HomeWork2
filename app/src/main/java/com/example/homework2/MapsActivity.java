@@ -380,6 +380,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             recording = false;
         }
 
+        try {
+            saveMarkersToJson();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
     }
 
 
